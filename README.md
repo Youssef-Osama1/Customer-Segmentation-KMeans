@@ -38,9 +38,7 @@ Some customers **exhibit extreme purchasing behavior**, requiring **special atte
 
 ---
 
-## 🛠️ Installation & Usage  
+## 📂 Dataset
+The dataset for this project can be accessed via the following [Google Drive link](https://docs.google.com/spreadsheets/d/1PBbecrmRZn6bcs483ljOorWDRee5yMg1/edit?usp=sharing&ouid=101579357684290240311&rtpof=true&sd=true).
 
-### **1️⃣ Install Required Libraries**  
-Make sure you have **Python 3.x** installed, then run:  
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+Make sure to click on the link to download the dataset.
